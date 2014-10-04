@@ -46,3 +46,5 @@ group :test, :development do
   gem 'growl_notify'
   gem 'launchy' # Get visual snapshot of what's going on.
 end
+
+gem 'bower-rails'
