@@ -1,0 +1,21 @@
+{
+  "name": "restauranteur",
+  "version": "1.0.0",
+  "description": "== README",
+  "main": "index.js",
+  "dependencies": {
+    "karma": "^0.12.24",
+    "karma-cli": "^0.0.4",
+    "karma-ng-scenario": "^0.1.0",
+    "karma-jasmine": "~0.1.0",
+    "karma-chrome-launcher": "~0.1",
+    "karma-coverage": "~0.1",
+    "karma-coffee-preprocessor": "~0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
