@@ -5,6 +5,12 @@ Adaptation of tutorial to integrate Angular in Rails 4, "Getting Started with An
 * Tutorial: https://www.honeybadger.io/blog/2013/12/11/beginners-guide-to-angular-js-rails?utm_source=rubyweekly&utm_medium=email
 
 * Ruby version: 2.1.3.
+* Rails 4.1.6.
 
 * How to run the test suite
-node_modules/karma-cli/bin/karma start spec/javascripts/restauranteur.conf.js
+  node_modules/karma-cli/bin/karma start spec/javascripts/restauranteur.conf.js
+
+* Make sure to run:
+  bundle install
+  npm install
+  rake bower:install
